@@ -15,6 +15,7 @@
 }
 
 .historia {
+  font-size: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -60,4 +61,13 @@
 .botones:active {
   position: relative;
   top: 1px;
+}
+.seleccion{
+  color: #dcdcdc;
+}
+.historico{
+  color: #dcdcdc;
+}
+.historico-item{
+  color: #dcdcdc;
 }
